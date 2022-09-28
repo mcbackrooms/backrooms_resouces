@@ -1,0 +1,10 @@
+{
+    "music.backrooms.level_0": {
+        "sounds":[
+            {
+                "name": "custom/backrooms/level_0",
+                "weight": 1
+             } 
+         ]
+    }
+}

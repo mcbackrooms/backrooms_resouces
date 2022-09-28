@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/stick",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+   },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model":"minecraft:item/bacteria_arm_l_1"},
+    {"predicate": {"custom_model_data":2}, "model":"minecraft:item/bacteria_arm_l_2"},
+    {"predicate": {"custom_model_data":3}, "model":"minecraft:item/bacteria_arm_r_1"},
+    {"predicate": {"custom_model_data":4}, "model":"minecraft:item/bacteria_arm_r_2"},
+    {"predicate": {"custom_model_data":5}, "model":"minecraft:item/bacteria_body_1"},
+    {"predicate": {"custom_model_data":6}, "model":"minecraft:item/bacteria_body_2"},
+    {"predicate": {"custom_model_data":7}, "model":"minecraft:item/bacteria_feet_l_1"},
+    {"predicate": {"custom_model_data":8}, "model":"minecraft:item/bacteria_feet_l_2"},
+    {"predicate": {"custom_model_data":9}, "model":"minecraft:item/bacteria_feet_r_1"},
+    {"predicate": {"custom_model_data":10}, "model":"minecraft:item/bacteria_feet_r_2"},
+    {"predicate": {"custom_model_data":11}, "model":"minecraft:item/bacteria_head"}
+  ]
+}
